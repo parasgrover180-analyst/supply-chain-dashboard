@@ -39,7 +39,8 @@ This project analyzes supply chain performance focusing on inventory management,
 - Focus on high-margin products
 
 ## Dashboard Preview
-(Add screenshots here)
+images/page1.png
+images/page2.png
 
 ## Files Included
 - SQL queries for analysis
