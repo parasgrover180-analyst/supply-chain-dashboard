@@ -1,0 +1,11 @@
+supplier_id,supplier_name,lead_time_days
+SUP1,Supplier_1,3
+SUP2,Supplier_2,7
+SUP3,Supplier_3,5
+SUP4,Supplier_4,7
+SUP5,Supplier_5,8
+SUP6,Supplier_6,9
+SUP7,Supplier_7,8
+SUP8,Supplier_8,9
+SUP9,Supplier_9,7
+SUP10,Supplier_10,8
